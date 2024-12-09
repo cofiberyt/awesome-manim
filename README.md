@@ -56,6 +56,8 @@
   - [YouTube](https://www.youtube.com/channel/UCAHS1BhH_B1NNUF_nltCLCA)
 - Code
   - [Youtube](https://www.youtube.com/@code-crash-cry)
+- Cofiber
+  - [Youtube](https://www.youtube.com/@cofiber)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
